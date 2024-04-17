@@ -46,6 +46,7 @@ public class Main {
     }
    static void finish(int num){
         String MenuSelect = (String) Menu.keySet().toArray()[num -1 ];
+
         print(MenuSelect);
     }
 
