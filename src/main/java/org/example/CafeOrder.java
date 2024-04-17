@@ -16,6 +16,7 @@ public class CafeOrder {
 
             int choice = scanner.nextInt();
 
+
             switch (choice) {
                 case 1:
                     printOrder("아메리카노", 5000 );
