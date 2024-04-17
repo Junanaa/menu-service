@@ -52,6 +52,6 @@ public class Main {
     static void print(String MenuSelect){
         System.out.println(MenuSelect + "를 선택하셨습니다.");
         System.out.println(MenuSelect + " 제조를 시작합니다.");
-        System.out.println(MenuSelect + " 제조가 완료되었습니다. " +" 요금은 " + Menu.get(MenuSelect) + "원 입니다.");
+        System.out.println(MenuSelect + " 제조가 완료되었습니다. " +" 요금은 " + Menu.get(MenuSelect) + "원 입니다. 감사합니다.");
     }
 }
