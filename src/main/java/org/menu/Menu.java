@@ -30,7 +30,6 @@ public class Menu {
     }
 
     public Integer getPrice() {
-
         return price;
     }
 }
